@@ -5,3 +5,4 @@ Large static data files used by [deck.gl-native](https://github.com/UnfoldedInc/
 ## Contents
 
 * `examples` - large data files used by deck.gl-native examples
+* `images` - static image resources
